@@ -13,3 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+Live Demo: https://fundraising-dapp.vercel.app/
